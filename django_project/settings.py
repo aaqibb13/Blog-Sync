@@ -92,7 +92,7 @@ DATABASES = {
         'USER': 'aaqibb13',
         'PASSWORD': 'Onanpariahsarebeautiful',
         'HOST':'localhost',
-        'POSRT': '5432',
+        'PORTS': '5432',
     }
 }
 
