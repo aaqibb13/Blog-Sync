@@ -21,3 +21,10 @@ where, Env is the name of your Virtual environment
 7. Run the server by running the following:
     > python manage.py runserver
 The server should now be running at `127.0.0.1:8000`
+
+# Functionalities
+- User Registration
+- Blog Functionality
+- Edit and Deletion of Posts
+- User Profile
+- Login and Logout Functionality
