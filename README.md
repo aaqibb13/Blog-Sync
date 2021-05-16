@@ -1,5 +1,5 @@
 # DjangoBlogApp
-A Minimalistic Blogging App built using Python (Django Web Application Framework)
+A Minimalistic Blogging App built using Python (Django Web Application Framework).
 
 # Prerequistes
 - Python Version 3.xx should be installed into your system
