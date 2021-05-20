@@ -18,13 +18,19 @@ A Minimalistic Blogging App built using Python (Django Web Application Framework
           
           c://users/hp/desktop/python/venv/scripts/activate
 
-where, Env is the name of your Virtual environment
+where, `Env` is the name of your Virtual environment
 5. Follow Step 6, If requirements.txt is already available or generate requirements.txt using:
-     > pip freeze > requirements.txt
+     
+        pip freeze > requirements.txt
+
 6. Install all the dependencies/requirements:
-     > pip install requirements.txt
+
+        pip install requirements.txt
+
 7. Run the server by running the following:
-     > python manage.py runserver
+     
+        python manage.py runserver
+
 The server should now be running at `127.0.0.1:8000`
 
 # Functionalities
