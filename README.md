@@ -19,6 +19,7 @@ A Minimalistic Blogging App built using Python (Django Web Application Framework
           c://users/hp/desktop/python/venv/scripts/activate
 
 where, `Env` is the name of your Virtual environment
+
 5. Follow Step 6, If requirements.txt is already available or generate requirements.txt using:
      
         pip freeze > requirements.txt
