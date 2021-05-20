@@ -26,7 +26,7 @@ where, `Env` is the name of your Virtual environment
 
 - Install all the dependencies/requirements:
 
-        pip install requirements.txt
+        pip install -r requirements.txt
 
 - Run the server by running the following:
      
