@@ -20,6 +20,6 @@ sqlparse==0.4.1
 uncompyle6==3.7.4
 UNKNOWN==0.0.0
 unpyclib==0.8.1
-urllib3==1.26.4
+urllib3==1.26.5
 whitenoise==5.2.0
 xdis==5.0.9
