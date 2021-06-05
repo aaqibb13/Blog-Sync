@@ -46,9 +46,5 @@ The server should now be running at `127.0.0.1:8000`
 
 # Upcoming Features
 - User Comments
+- Likes and Dislike Options
 - Fix heroku deployment CORS issues
-
-# Current To-do
-Since the files present are compiled python files (.pyc files), it is important to have the source files (.py files) to be able to make further changes. If anyone wants to uncompile the files, feel free to create a pull request.
-- I've already tried to decompile with [decompyle3](https://github.com/rocky/python-decompile3) by downgrading to the decompyle compatible Python version 3.8.
-- The possible outlook on this is the compiled files being Python 3.9. 
