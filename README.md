@@ -46,4 +46,5 @@ The server should now be running at `127.0.0.1:8000`
 
 # Upcoming Features
 - User Comments
+- Likes and Dislike feature
 - Fix heroku deployment CORS issues
