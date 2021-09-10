@@ -16,7 +16,7 @@ pytz==2020.5
 s3transfer==0.3.7
 six==1.15.0
 spark-parser==1.8.9
-sqlparse==0.4.1
+sqlparse==0.4.2
 uncompyle6==3.7.4
 UNKNOWN==0.0.0
 unpyclib==0.8.1
